@@ -1,0 +1,47 @@
+{
+	"wat": "http://vignette1.wikia.nocookie.net/angrybirds/images/6/67/Wat.jpg/revision/latest?cb=20150330174225&path-prefix=ru",
+	"itemUnit": {
+		"mechItem": {
+			"moveable": {
+				"tank": "https://im3-tub-ua.yandex.net/i?id=9aa1dcf78e7fb4a5815d1530c8df0555&n=33&h=215&w=397",
+				"auto": "http://www.kolesa.ru/uploads/bnnews/2015/10/27/ac81fa034f4cafbfbb89e4505adb42d2-995x0-90.jpg"
+			},
+			"static": {
+				"drill": "https://im0-tub-ua.yandex.net/i?id=1dcdac975630ccf537f019347c3839a8&n=33&h=215&w=287",
+				"microvawe": "https://im2-tub-ua.yandex.net/i?id=b4130bf31f85af1878d168355dfa77bd&n=33&h=215&w=365"
+			}
+		},
+		"woodenItem": {
+			"handmade": {
+				"spoon": "https://madeheart.com/media/productphoto/389/1700725857/Artur_20131027_104156_1500.jpg",
+				"hummer": "http://toolsmagic.ru/published/publicdata/DETSKOEOPTOM/attachments/SC/products_pictures/11120.jpg"
+			},
+			"nature": {
+				"tree": "https://im0-tub-ua.yandex.net/i?id=cc7ea472e2757c8a8d2fcafca62f7cd9&n=33&h=215&w=324",
+				"bushes": "https://c1.staticflickr.com/5/4100/4940468759_a665f5e7c5_b.jpg"
+			}
+		}
+	},
+	"liveUnit": {
+		"man": {
+			"worker": {
+				"programmer": "http://portal.azertag.az/sites/default/files/proqr3.jpg",
+				"president": "https://im1-tub-ua.yandex.net/i?id=453edb3c4758c4cd4c9212688825705b&n=33&h=215&w=382"
+			},
+			"homeless": {
+				"alco": "http://static6.depositphotos.com/1004887/634/i/450/depositphotos_6349709-Homeless-man.jpg",
+				"drugs": "https://im0-tub-ua.yandex.net/i?id=cb2c2fab249b436e9887874a9bf4c51e&n=33&h=215&w=385"
+			}
+		},
+		"animal": {
+			"dog": {
+				"haski": "http://from-ua.com/upload/articles/2016/02/11/images/%D1%85%D0%B0%D1%81%D0%BA%D0%B89.jpg",
+				"predator": "http://dogbreedersguide.com/wp-content/uploads/2015/03/funny_pictures_of_dog_with_predator_style.jpg"
+			},
+			"cat": {
+				"angry": "https://i.ytimg.com/vi/2h6EQ57wgAs/maxresdefault.jpg",
+				"funny": "http://images5.fanpop.com/image/photos/26100000/MORE-LOL-ANIMALS-mintys-funny-stuff-26135013-597-446.jpg"
+			}
+		}
+	}
+}
